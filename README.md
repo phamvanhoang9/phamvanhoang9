@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **steve.pvhoang@gmail.com**
 
-- 📄 Know about me [profile](https://static.topcv.vn/topcv-cv-uploads/14e8839ce8c6f34c481b2dd9b7f12922.pdf#toolbar=0&navpanes=0&scrollbar=0)
+- 📄 Know about me [profile](https://www.topcv.vn/p/stevehoang)
 
 - ⚡ Fun fact **If you reverse the letter "M" in "Me", it will become "We".**
 
