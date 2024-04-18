@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [VIGPT Researcher: Improving the Quality of Information Search Results for Vietnamese Users](https://github.com/phamvanhoang9/vigpt-researcher.git)
 
-- 🌱 I’m currently learning **Plan-and-Solve Prompting with Retrieval-Augmented Generation (RAG)**
+- 🌱 I’m currently learning **Plan-and-Solve Prompting with Retrieval-Augmented Generation (RAG).**
 
-- 💬 Ask me about **Transformers, RAG, Plan-and-Solve Prompting**
+- 💬 Ask me about **Transformers, RAG, Plan-and-Solve Prompting.**
 
 - 📫 How to reach me **steve.pvhoang@gmail.com**
 
