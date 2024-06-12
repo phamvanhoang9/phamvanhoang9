@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ViGPT - An Intensive Research Assistant Powered by GPT-4o](https://github.com/phamvanhoang9/vigpt-researcher.git)
 
-- 🌱 I’m currently learning **Plan-and-Solve Prompting with Retrieval-Augmented Generation (RAG).**
+- 🌱 I’m currently learning **Plan-and-Solve Promptings with Retrieval-Augmented Generation (RAG).**
 
 - 💬 Ask me about **Transformers, RAG, Plan-and-Solve Prompting.**
 
