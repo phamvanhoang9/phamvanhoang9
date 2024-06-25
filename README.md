@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Plan-and-Solve Promptings with Retrieval-Augmented Generation (RAG).**
 
-- 💬 Ask me about **Transformers, RAG, Plan-and-Solve Prompting.**
+- 💬 Ask me about **Transformers, RAG, Plan-and-Solve Promptings.**
 
 - 📫 How to reach me **steve.pvhoang@gmail.com**
 
