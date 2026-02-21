@@ -72,11 +72,19 @@
 
 <br/>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Analytics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamvanhoang9&theme=midnight-purple&show_icons=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=phamvanhoang9&theme=midnight-purple" height="165"/>
+  <a href="https://github.com/phamvanhoang9">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phamvanhoang9&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/phamvahoang9">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phamvanhoang9&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
 <br><br>
