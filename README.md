@@ -1,23 +1,94 @@
-<a href="https://stevehoang.io">
-  <img src="https://media0.giphy.com/media/5k5vZwRFZR5aZeniqb/200w.gif?cid=6c09b952wi9q1xvzwhecd01fukd8q1gl7dm6sq3i053fygrc&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="MasterHead" height="150px" width="200px">
-</a>
+<h1 align="center">Hi 👋, I'm Hoang</h1>
+<h3 align="center">An AI Engineer from Vietnam</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=phamvanhoang9&label=Profile%20views&color=0e75b6&style=flat" alt="stevehoang" />
+</p>
+</div>
 
-<h1 align="center">Hi 👋, I'm Hoàng</h1>
-<h3 align="center">I come from Vietnam and I am deeply passionate about Artificial Intelligence</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
+- 🔭 I’m currently working on **UA IT(JKH IT)**
 
-- 🔭 I’m currently working as an **AI and Data Engineer**.
+- 🌱 I’m currently learning **Devops**
 
-- 🌱 I’m currently learning **How to become a person better than me yesterday**.
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
-- 💬 Ask me about **Anything**.
+- 💬 Ask me about **Java, Python, PHP and NodeJS**
 
-- 📫 How to reach me **steve.pvhoang@gmail.com**
+- 📫 How to reach me **supunnanayakkara01@gmail.com**
 
-- ⚡ Fun fact **If you reverse the letter "M" in "Me", it will become "We" 😊**
+- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
+- ⚡ Fun fact **I think I'm funny**
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/phamvanhoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phamvanhoang" height="30" width="40" /></a>
 <a href="https://fb.com/vanhoang.ralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vanhoang.ralph" height="30" width="40" /></a>
 </p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phamvanhoang9&theme=midnight-purple&show_icons=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=phamvanhoang9&theme=midnight-purple" height="165"/>
+</p>
+
+<br><br>
+
+<h3 align="left">Activity:</h3>
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=phamvanhoang9&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">stevehoang</a></p>
+
+
