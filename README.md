@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **ATLAS - Agentic Task & Literature Analysis System**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DevOps**
   
 - 💼 Travel to my personal projects and read the stories, visit [my portfolio](https://phamvanhoang9.github.io/stevehoang/)
 
