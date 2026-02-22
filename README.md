@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Devops**
   
-- 💼 My portfolio (coming soon)
+- 💼 Travel to my personal projects and read the stories, visit [my portfolio](https://phamvanhoang9.github.io/stevehoang/)
 
 - 💬 Ask me about **Open Questions and Collaboration**
 
