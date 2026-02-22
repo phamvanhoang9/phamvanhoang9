@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hoang</h1>
 <h3 align="center">An AI Engineer from Vietnam</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">🤖 I am an AI Engineer with experience in applied research and real-world deployment of intelligent systems. My work focuses on Natural Language Processing, where I design, implement, and optimize algorithms to meet practical performance requirements.<br>
+🧠 Currently, I focus on building and deploying an Agentic AI system in a production-like environment, developing end-to-end pipelines that combine reasoning, retrieval, and automation. I am particularly interested in turning research ideas into reliable applications that operate effectively beyond experimental settings. <br>
+⚙️ I enjoy working at the intersection of research and engineering — translating theory into scalable systems and continuously improving robustness, efficiency, and maintainability.</p>
+
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=phamvanhoang9&label=Profile%20views&color=0e75b6&style=flat" alt="stevehoang" />
 </p>
@@ -12,54 +15,44 @@
 - 🔭 I’m currently working on **ATLAS - Agentic Task & Literature Analysis System**
 
 - 🌱 I’m currently learning **Devops**
-
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+  
+- 💼 My portfolio (coming soon)
 
 - 💬 Ask me about **Open Questions and Collaboration**
 
 - 📫 How to reach me **steve.pvhoang@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
-- ⚡ Fun fact **...**
-
 <br><br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧩 Tech Stack</h3>
 
-- Backend
+<h3 align="left">💻 Languages</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,html,css,javascript"/>
 </p>
 
-- Frontend
+<b>⚙️ Core Engineering</b>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
+Algorithm Design • Performance Optimization • System Evaluation
 </p>
 
-- Database
+<b>🤖 AI & Agentic Systems</b>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
+Transformers • RAG • Prompt Engineering • LangChain • LangGraph • Agentic Workflows • OpenAI API • WebSocket Streaming
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 </p>
 
-- Cloud Servers
+<b>📊 Data Engineering for AI</b>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
+AI Data Pipelines • Data Processing • Knowledge Graph Construction
 </p>
 
-- Tools
+<b>🔧 Backend & Infrastructure</b>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,mongodb,docker,linux,gcp" />
+  <img src="https://cdn.simpleicons.org/neo4j/008CC1" height="48" alt="neo4j"/>
 </p>
 
 <br/>
